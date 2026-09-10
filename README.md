@@ -13,7 +13,7 @@ This script adds bulk delete functionality to ChatGPT's conversation history. It
 - **Bulk delete**: Delete multiple conversations with a single click
 - **Visual feedback**: Real-time progress indicators and error highlighting
 - **Notifications**: Desktop notifications for deletion status
-- **Works with ChatGPT 2025 UI**: Compatible with the latest ChatGPT interface
+- **Works with ChatGPT 2026 UI**: Compatible with the latest ChatGPT interface + New, modern look!
 
 ## Installation
 
@@ -36,14 +36,16 @@ This script adds bulk delete functionality to ChatGPT's conversation history. It
 
 ## Version History
 
+**6.0.0** - Major update:
+- Button now uses your ChatGPT site preferred color
+- Checkboxes now look cooler TODO: Make them inline with chat name
+- Deletion now works much faster
+- Notifications now appear under the button, not through browser's function
+
 **5.0.0** - Major update:
 - Uses backend API for deletion (more reliable and faster)
 - Improved error handling and notifications
 - Better UI feedback during deletion process
 
 **4.0.0** - Updated for ChatGPT 2025 UI using #history container
-
-## License
-
-This script is provided as-is for personal use.
 
